@@ -1,0 +1,338 @@
+.cookie-policy1 {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.policy-banner {
+  align-self: stretch;
+  background-color: #94c0fb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lilylamb-kids-we2 {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: inline-block;
+  max-width: 100%;
+}
+.what-are-cookies {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.definition-of-cookies,
+.what-are-cookies-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.definition-of-cookies {
+  line-height: 29px;
+}
+.cookies-are-small {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.definition-of-cookies-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.types-of-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line3,
+.there-are-several {
+  margin: 0;
+}
+.first-party-cookies-these,
+.session-cookies-these,
+.third-party-cookies-these {
+  margin-bottom: 0;
+}
+.first-party-cookies-these-are {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.there-are-several-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.types-of-cookies-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-group,
+.policy-headings,
+.types-of-cookies-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.policy-headings {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.managing-cookies1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.browser-settings,
+.managing-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.browser-settings {
+  line-height: 29px;
+}
+.most-web-browsers {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.option-headings {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.opt-out-options {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-online-choices {
+  color: inherit;
+}
+.you-can-opt-container {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: inline-block;
+}
+.option-headings1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.consequences-of-disabling {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-you-choose {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.option-headings2 {
+  align-self: stretch;
+  gap: 16px;
+}
+.cookie-management,
+.management-options,
+.option-headings2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.management-options {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.cookie-management {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information6,
+.contact-information7 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information7 {
+  padding-left: 43px;
+}
+.contact-information6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main3,
+.brandname-customer-support3,
+.email-supportbrandnamecom3,
+.if-you-have3,
+.phone-1-800-123-45673 {
+  margin: 0;
+}
+.if-you-have-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.cookie-policy,
+.frame-div,
+.policy-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-div {
+  width: 1120px;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cookie-policy,
+.policy-content {
+  color: #1c1c1c;
+  font-family: "Avenir Next LT Pro";
+}
+.policy-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.cookie-policy {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1200px) {
+  .policy-content {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .cookie-policy1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .contact-information6,
+  .managing-cookies,
+  .what-are-cookies-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cookie-management,
+  .frame-div,
+  .policy-headings {
+    gap: 16px;
+  }
+  .policy-content {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cookie-policy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .browser-settings,
+  .consequences-of-disabling,
+  .contact-information6,
+  .definition-of-cookies,
+  .managing-cookies,
+  .opt-out-options,
+  .types-of-cookies,
+  .what-are-cookies-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

@@ -1,0 +1,566 @@
+.terms-and-conditions {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.terms-and-conditions-wrapper {
+  align-self: stretch;
+  background-color: #94c0fb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.by-accessing-this,
+.welcome-to-your {
+  margin: 0;
+}
+.lilylamb-kids-we-container {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: inline-block;
+  max-width: 100%;
+}
+.definitions,
+.definitions1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.definitions1 {
+  padding-left: 43px;
+}
+.definitions {
+  line-height: 120%;
+  font-weight: 400;
+}
+.a-gift-card,
+.definitions,
+.gift-card {
+  align-self: stretch;
+  position: relative;
+}
+.gift-card {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.a-gift-card {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.provisions-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.the-website-owned,
+.website {
+  align-self: stretch;
+  position: relative;
+}
+.website {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.the-website-owned {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.cards-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.any-individual-or,
+.user {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.any-individual-or {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.user-terms-list {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitions-list,
+.provisions-list,
+.user-terms-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.provisions-list {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitions-list {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.general-provisions1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.acceptance-of-terms,
+.general-provisions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.acceptance-of-terms {
+  line-height: 29px;
+}
+.by-accessing-and {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.acceptance-of-terms-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.modifications-to-terms {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-company-reserves {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.modifications-to-terms-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.governing-law,
+.these-terms-and {
+  align-self: stretch;
+  position: relative;
+}
+.governing-law {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-terms-and {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.governing-law-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitions-list1,
+.frame-parent,
+.governing-law-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitions-list1 {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.purchase-of-gift-cards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.purchase-of-gift-container,
+.purchasing-channels {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.purchasing-channels {
+  line-height: 29px;
+}
+.gift-cards-can {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.channels-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.load-amounts,
+.the-minimum-and {
+  align-self: stretch;
+  position: relative;
+}
+.load-amounts {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.the-minimum-and {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.channels-list1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.payment-methods {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.accepted-payment-methods {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.channels-list2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.confirmation {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.upon-successful-completion {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.channels-list3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.usage-restrictions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-cannot {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.channels-list4 {
+  align-self: stretch;
+  gap: 16px;
+}
+.channels-list-parent,
+.channels-list4,
+.purchase-of-gift-cards-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.channels-list-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.purchase-of-gift-cards-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.governing-law1,
+.governing-law2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.governing-law2 {
+  padding-left: 43px;
+}
+.governing-law1 {
+  line-height: 120%;
+  font-weight: 400;
+}
+.governing-law1,
+.jurisdiction,
+.these-terms-and1 {
+  align-self: stretch;
+  position: relative;
+}
+.jurisdiction {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-terms-and1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.jurisdiction-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-wrapper,
+.governing-law-group,
+.jurisdiction-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  align-self: stretch;
+  font-size: 24px;
+}
+.governing-law-group {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information,
+.contact-information1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information1 {
+  padding-left: 43px;
+}
+.contact-information {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main,
+.blank-line,
+.brandname-customer-support,
+.by-using-brandnames,
+.email-supportbrandnamecom,
+.if-you-have,
+.phone-1-800-123-4567 {
+  margin: 0;
+}
+.if-you-have-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.contact-information-parent,
+.if-you-have-any-questions-abou-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.if-you-have-any-questions-abou-wrapper {
+  align-self: stretch;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.contact-information-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.lilylamb-kids-we-us-or-parent,
+.terms-conditions {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #1c1c1c;
+  font-family: "Avenir Next LT Pro";
+}
+.lilylamb-kids-we-us-or-parent {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.terms-conditions {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1200px) {
+  .lilylamb-kids-we-us-or-parent {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .terms-and-conditions {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .contact-information,
+  .definitions,
+  .general-provisions,
+  .governing-law1,
+  .purchase-of-gift-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-information-parent,
+  .definitions-list,
+  .definitions-list1,
+  .governing-law-group,
+  .purchase-of-gift-cards-parent {
+    gap: 16px;
+  }
+  .lilylamb-kids-we-us-or-parent {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .terms-and-conditions {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptance-of-terms,
+  .confirmation,
+  .contact-information,
+  .definitions,
+  .general-provisions,
+  .gift-card,
+  .governing-law,
+  .governing-law1,
+  .jurisdiction,
+  .load-amounts,
+  .modifications-to-terms,
+  .payment-methods,
+  .purchase-of-gift-container,
+  .purchasing-channels,
+  .usage-restrictions,
+  .user,
+  .website {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

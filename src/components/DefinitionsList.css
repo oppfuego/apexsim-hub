@@ -1,0 +1,101 @@
+.lost-or-stolen-gift-cards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.lost-or-stolen-container {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lost-or-stolen-container,
+.responsibility,
+.your-company-is {
+  align-self: stretch;
+  position: relative;
+}
+.responsibility {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.your-company-is {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.responsibility-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.safeguarding,
+.users-should-keep {
+  align-self: stretch;
+  position: relative;
+}
+.safeguarding {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.users-should-keep {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.safeguarding-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitions-list2,
+.frame-container,
+.safeguarding-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitions-list2 {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 1050px) {
+  .lost-or-stolen-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .definitions-list2 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .lost-or-stolen-container,
+  .responsibility,
+  .safeguarding {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

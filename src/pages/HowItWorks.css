@@ -1,0 +1,132 @@
+.header-heading,
+.heading-36 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.header-heading {
+  align-self: stretch;
+  font-size: inherit;
+  line-height: 53px;
+}
+.heading-36 {
+  width: 485.7px;
+  font-size: 24px;
+  line-height: 120%;
+  color: gray;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.header-heading-1-dtac-happ-parent {
+  width: 1074px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.qr-setup {
+  color: gray;
+}
+.strong-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  color: #999;
+}
+.blank-line1,
+.your-device-needs {
+  margin: 0;
+}
+.note-some-users {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.your-device-needs-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #f60;
+}
+.frame-section {
+  align-self: stretch;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #333;
+  font-family: Inter;
+}
+.frame-container,
+.frame-section,
+.how-it-works {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 80px 360px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+}
+.how-it-works {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .frame-container {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .header-heading {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-container {
+    gap: 32px;
+    padding-left: 180px;
+    padding-right: 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-container {
+    gap: 16px;
+    padding: 22px 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-heading {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .heading-36,
+  .strong-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

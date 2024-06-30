@@ -1,0 +1,58 @@
+.figure-iphone-esim-warranty- {
+  width: 78px;
+  height: 78px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-39 {
+  margin: 0;
+  width: 292.5px;
+  position: relative;
+  font-size: inherit;
+  line-height: 31.2px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.issues-installing-your,
+.we-offer-a {
+  margin: 0;
+}
+.we-offer-a-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #676767;
+}
+.figure-iphone-esim-warranty-parent,
+.heading-3-warranty-and-refun-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.heading-3-warranty-and-refun-parent {
+  align-self: stretch;
+}
+.figure-iphone-esim-warranty-parent {
+  width: 546.1px;
+  max-width: 108%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 24px;
+  color: #1d1e1d;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .heading-39 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

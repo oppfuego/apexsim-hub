@@ -1,0 +1,97 @@
+.partnered-with {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.lets-roam-iconjpeg {
+  height: 169px;
+  width: 264px;
+  position: relative;
+  object-fit: contain;
+}
+.group-icon,
+.phonearena-iconjpeg,
+.travelgcca-iconpng {
+  height: 185px;
+  width: 264px;
+  position: relative;
+  object-fit: contain;
+}
+.group-icon,
+.travelgcca-iconpng {
+  height: 96px;
+}
+.travelgcca-iconpng {
+  height: 222px;
+  object-fit: cover;
+}
+.partner-images {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 0 20px;
+}
+.partner-logos,
+.partners {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.partner-logos {
+  width: 1536px;
+  gap: 64px;
+}
+.partners {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1275px) {
+  .partner-images {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 900px) {
+  .partnered-with {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .partner-logos {
+    gap: 32px;
+  }
+  .partners {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .partnered-with {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .partner-logos,
+  .partners {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,261 @@
+.anonymous {
+  margin: 0;
+  width: 132px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.verifiedsvg-icon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.verified-owner {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+}
+.horizontalborder,
+.review-verified {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.review-verified {
+  flex-direction: row;
+  gap: 8px;
+  font-size: 16px;
+  color: #2b2929;
+  font-family: Manrope;
+}
+.horizontalborder {
+  border-bottom: 2px solid #aaa;
+  flex-direction: column;
+  padding: 15px 115px 12px 0;
+  gap: 4px;
+}
+.container-icon7,
+.icon5 {
+  height: 27.6px;
+  width: 18.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon5 {
+  height: 18.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.review-rating-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 11.5px;
+}
+.container-icon8,
+.icon6 {
+  height: 27.6px;
+  width: 18.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon6 {
+  height: 18.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.review-rating-icons-two {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 11.5px;
+}
+.container-icon9,
+.icon7 {
+  height: 27.6px;
+  width: 18.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon7 {
+  height: 18.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.review-rating-icons-three {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 11.5px;
+}
+.container-icon10,
+.icon8 {
+  height: 27.6px;
+  width: 18.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon8 {
+  height: 18.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.review-rating-icons-four {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 11.5px;
+}
+.container-icon11,
+.icon9 {
+  height: 27.6px;
+  width: 18.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon9 {
+  height: 18.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.review-rating-containers,
+.review-rating-icons-five {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.review-rating-icons-five {
+  position: relative;
+  gap: 11.5px;
+}
+.review-rating-containers {
+  gap: 3.5px;
+}
+.review-comments {
+  position: relative;
+  letter-spacing: 2px;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 37px;
+}
+.review-ratings {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 19.1px;
+  color: #898f92;
+}
+.its-a-very,
+.program-to-me {
+  margin: 0;
+}
+.show-more {
+  margin: 0;
+  color: #c36;
+}
+.its-a-very-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.week-ago {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #898f92;
+  display: inline-block;
+  min-width: 84px;
+}
+.paragraphbackgroundborder {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fcfcfc;
+  border: 1px solid #f9f9f9;
+  align-items: flex-start;
+  padding: 14px 15px 14px 17px;
+  gap: 12px;
+  font-size: 16px;
+  color: #484e51;
+  font-family: Manrope;
+}
+.paragraphbackgroundborder,
+.review-borders,
+.tabpanel {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.review-borders {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0;
+  gap: 24px;
+}
+.tabpanel {
+  flex: 1;
+  background-color: #fbfbfb;
+  border: 1px solid #ebebeb;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 10px 41px;
+  min-width: 288px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #203741;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .anonymous {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .horizontalborder {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .review-ratings {
+    flex-wrap: wrap;
+  }
+}

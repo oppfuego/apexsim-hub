@@ -1,0 +1,291 @@
+.separator {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border: 1px solid #2b2929;
+  box-sizing: border-box;
+}
+.heading-210 {
+  margin: 0;
+  width: 550.3px;
+  height: 34px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.image-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.link-photo-image-of-apple-su {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+.container2 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border-radius: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.how-to-activate {
+  position: relative;
+  line-height: 23.4px;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+.link5 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  z-index: 1;
+}
+.video-title-link {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 12.6px;
+  box-sizing: border-box;
+  min-width: 919px;
+  max-width: 100%;
+}
+.play-button-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 5px;
+  max-width: 100%;
+}
+.button-play-svg {
+  height: 48px;
+  width: 68px;
+  position: relative;
+  z-index: 1;
+}
+.button-play-svg-wrapper {
+  width: 1396px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.play-button-container-parent,
+.video-player-controls {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.play-button-container-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 144px;
+}
+.video-player-controls {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 7px;
+  box-sizing: border-box;
+}
+.watch-on {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.svg-icon {
+  height: 16px;
+  width: 72px;
+  position: relative;
+}
+.link-watch-on-youtube {
+  width: 172.1px;
+  border-radius: 0 2px 2px 0;
+  background-color: rgba(23, 23, 23, 0.8);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 12px 9px;
+  box-sizing: border-box;
+  gap: 6px;
+  z-index: 1;
+  font-size: 16px;
+  color: #fff;
+  font-family: Manrope;
+}
+.video-controls,
+.video-player-controls-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.video-player-controls-parent {
+  align-self: stretch;
+  gap: 149px;
+}
+.video-controls {
+  flex: 1;
+  padding: 7px 0 0;
+  box-sizing: border-box;
+}
+.svg-icon1 {
+  height: 36px;
+  width: 36px;
+  position: relative;
+}
+.svg-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 6px;
+}
+.share {
+  position: relative;
+  line-height: 19px;
+  font-weight: 500;
+  display: inline-block;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  min-width: 37px;
+}
+.button-menu-share,
+.container3 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.container3 {
+  align-self: stretch;
+  height: 18.2px;
+  flex-direction: row;
+  padding: 0 5px;
+}
+.button-menu-share {
+  width: 48px;
+  flex-direction: column;
+  padding: 6px 0 0;
+  opacity: 0.9;
+  z-index: 1;
+  text-align: center;
+  font-size: 14px;
+}
+.youtube-video-player {
+  flex: 1;
+  background-color: #000;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 22px 5px 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+}
+.iframe-body,
+.separator-parent,
+.youtube-video-player {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.iframe-body {
+  width: 1556px;
+  background-color: #000;
+  overflow: hidden;
+  flex-direction: row;
+  font-size: 18px;
+  color: #eee;
+  font-family: Roboto;
+}
+.separator-parent {
+  width: 1640px;
+  flex-direction: column;
+  gap: 12px;
+  text-align: left;
+  font-size: 24px;
+  color: #2b2929;
+  font-family: Inter;
+}
+@media screen and (max-width: 1500px) {
+  .video-title-link {
+    min-width: 100%;
+  }
+  .play-button-container {
+    flex-wrap: wrap;
+  }
+  .video-controls {
+    min-width: 100%;
+  }
+  .youtube-video-player {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .play-button-container-parent {
+    gap: 72px;
+  }
+  .video-player-controls-parent {
+    gap: 74px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .play-button-container-parent {
+    gap: 36px;
+  }
+  .video-player-controls-parent {
+    gap: 37px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-210 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .play-button-container-parent {
+    gap: 18px;
+  }
+  .video-player-controls-parent {
+    gap: 19px;
+  }
+}

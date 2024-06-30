@@ -1,0 +1,541 @@
+.heading-44 {
+  margin: 0;
+  width: 135px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.span {
+  color: #999;
+}
+.emphasis-strong-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+}
+.installation-instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.strong {
+  width: 225px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.qr-code-can,
+.strong {
+  margin: 0;
+}
+.ios-16-quick {
+  color: #c36;
+}
+.span1 {
+  color: #000;
+}
+.new-ios-16-quick-transfer {
+  margin: 0;
+}
+.qr-code-can-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+}
+.strong-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  gap: 15.2px;
+}
+.heading-45 {
+  margin: 0;
+  width: 156px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.request-a-refund {
+  position: relative;
+  line-height: 22px;
+}
+.request-a-refund-if-you-did-no-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6.8px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+  color: #000;
+  font-family: Manrope;
+}
+.strong1 {
+  margin: 0;
+  width: 224px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.try-restarting-your {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+}
+.frame-parent2,
+.strong-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.strong2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.dial-1019-to-check {
+  width: 239.1px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+  display: flex;
+  align-items: center;
+}
+.strong-parent1 {
+  width: 258px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.8px;
+}
+.dial-10119-to-check,
+.strong3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.strong3 {
+  margin: 0;
+  width: 232px;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.dial-10119-to-check {
+  height: 22px;
+  line-height: 135%;
+}
+.dial-10119-to-check-you-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+  color: #000;
+  font-family: Manrope;
+}
+.strong4 {
+  margin: 0;
+  width: 260px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.printed-in-local {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+}
+.strong-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.4px;
+  max-width: 100%;
+}
+.strong5 {
+  margin: 0;
+  width: 175px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.you-can-add {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+}
+.strong-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.2px;
+  max-width: 100%;
+}
+.strong6 {
+  margin: 0;
+  width: 123px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.use-the-data {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+}
+.strong-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.strong7 {
+  margin: 0;
+  width: 224px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.you-have-purchased {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+  white-space: pre-wrap;
+}
+.frame-parent3,
+.strong-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.strong-parent5 {
+  align-self: stretch;
+  gap: 15.8px;
+}
+.frame-parent3 {
+  padding: 0 0 9px;
+  gap: 22.9px;
+}
+.frame-parent3,
+.installation-instructions1,
+.separator1 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.separator1 {
+  flex: 1;
+  position: relative;
+  border: 1px solid #999;
+}
+.installation-instructions1 {
+  height: 11px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+}
+.heading-46 {
+  margin: 0;
+  width: 240px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.link-leave {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+}
+.installation-instructions2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.strong8 {
+  margin: 0;
+  width: 309px;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.learn-and-share {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+}
+.strong-esim-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+  box-sizing: border-box;
+  gap: 15.8px;
+  max-width: 100%;
+}
+.installation-instructions3,
+.separator2 {
+  align-self: stretch;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.separator2 {
+  flex: 1;
+  position: relative;
+  border: 1px solid #999;
+}
+.installation-instructions3 {
+  height: 11px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+}
+.heading-314 {
+  margin: 0;
+  width: 334px;
+  height: 34px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.contact-us-for,
+.dtac-call-center,
+.esim-shop {
+  margin: 0;
+}
+.strong-dtac-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+}
+.heading-3-strong-customer-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.frame-parent4,
+.separator3 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.separator3 {
+  height: 2px;
+  position: relative;
+  border: 1px solid #999;
+}
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+  gap: 32px;
+  max-width: 100%;
+}
+.heading-315 {
+  margin: 0;
+  width: 393px;
+  height: 33px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.more-plans-listed {
+  color: #c36;
+}
+.and {
+  color: #999;
+}
+.after-your-first-data-plan-is {
+  margin: 0;
+}
+.span2 {
+  color: #999;
+}
+.here {
+  margin: 0;
+  color: #c36;
+}
+.after-your-first-container {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  color: #000;
+}
+.link-screen-shot-2021-12-31- {
+  width: 300px;
+  height: 134px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-3-strong-additiona-parent {
+  width: 1084.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 9px;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+}
+.separator4 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border: 1px solid #999;
+  box-sizing: border-box;
+}
+.installation-instructions-parent {
+  width: 1140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #070707;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .frame-parent4 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-314,
+  .heading-315,
+  .heading-44,
+  .heading-45,
+  .heading-46,
+  .strong,
+  .strong1,
+  .strong2,
+  .strong3,
+  .strong4,
+  .strong5,
+  .strong6,
+  .strong7,
+  .strong8 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

@@ -1,0 +1,331 @@
+.experience-the-future1,
+.seamless-connectivity-anytime1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.experience-the-future1 {
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+.seamless-connectivity-anytime-parent {
+  width: 739px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 10px;
+  min-width: 739px;
+  max-width: 100%;
+}
+.online-app-for-tourism-travele-icon {
+  width: 829.3px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.connectivity,
+.connectivity-experience {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.connectivity-experience {
+  width: 1680px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.connectivity {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+}
+.asian-plan-esim {
+  margin: 0;
+  height: 36px;
+  width: 236.9px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.heading-312 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 135px 0.5px;
+}
+.gb-8 {
+  width: 157.6px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.gb-8-days-wrapper,
+.overlay1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gb-8-days-wrapper {
+  width: 506.5px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  font-size: 16px;
+  color: #563a63;
+  font-family: Manrope;
+}
+.overlay1 {
+  align-self: stretch;
+  background-color: rgba(151, 34, 207, 0.06);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 19.5px 0 24px;
+  gap: 11.5px;
+}
+.div2 {
+  width: 111.9px;
+  position: relative;
+  line-height: 53px;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.container,
+.div2,
+.learn-more2 {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 8px 21px;
+  font-size: 48px;
+  color: #555;
+}
+.learn-more2 {
+  height: 18px;
+  width: 114.7px;
+  position: relative;
+  line-height: 120%;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.link-wrapper,
+.link4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.link4 {
+  width: 148px;
+  border-radius: 3px;
+  border: 3px solid #022555;
+  justify-content: flex-start;
+  padding: 17px 10px 17px 17px;
+  flex-shrink: 0;
+}
+.link-wrapper {
+  height: 120px;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.add-data-from1,
+.reloadable-extendable1 {
+  margin: 0;
+}
+.reloadable-extendable-container1 {
+  align-self: stretch;
+  height: 39.6px;
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+  font-family: Manrope;
+  color: #2b2929;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.backgroundborder1,
+.frame-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 48px;
+  font-size: 18px;
+  color: #022555;
+}
+.backgroundborder1 {
+  flex: 1;
+  border-radius: 2px;
+  background-color: #f9fafa;
+  border: 1px solid rgba(151, 34, 207, 0.13);
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 0 0 80px;
+  gap: 40px;
+  min-width: 408px;
+  max-width: 100%;
+}
+.plans-headings {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 24.7px;
+}
+.connectivity-image,
+.global-thailand,
+.plans-headings,
+.plans1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.global-thailand {
+  width: 1680px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.connectivity-image,
+.plans1 {
+  align-self: stretch;
+}
+.plans1 {
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  z-index: 1;
+  margin-top: -0.1px;
+  text-align: center;
+  font-size: 24px;
+  color: #312b33;
+}
+.connectivity-image {
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1625px) {
+  .online-app-for-tourism-travele-icon,
+  .seamless-connectivity-anytime-parent {
+    flex: 1;
+  }
+  .connectivity-experience {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .seamless-connectivity-anytime1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .seamless-connectivity-anytime-parent {
+    min-width: 100%;
+  }
+  .connectivity {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .heading-312 {
+    padding-left: 67px;
+    padding-right: 67px;
+    box-sizing: border-box;
+  }
+  .div2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent1 {
+    gap: 24px;
+  }
+  .backgroundborder1,
+  .plans1 {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .backgroundborder1 {
+    gap: 20px;
+    min-width: 100%;
+  }
+  .plans1 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .seamless-connectivity-anytime1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .experience-the-future1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .connectivity {
+    gap: 16px;
+  }
+  .asian-plan-esim {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-312 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .div2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .plans1 {
+    gap: 16px;
+  }
+}

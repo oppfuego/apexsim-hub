@@ -1,0 +1,1014 @@
+.supported-countries1 {
+  color: #2b2929;
+}
+.link-global-container1 {
+  width: 100%;
+}
+.heading-3,
+.link-global-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.link-global-container {
+  width: 649.9px;
+  max-width: 100%;
+}
+.heading-3 {
+  width: 55.2px;
+  height: 33.6px;
+  flex-shrink: 0;
+}
+.afghanistan-new {
+  position: relative;
+  line-height: 22px;
+}
+.bahrain-5g,
+.bhutan-new,
+.item-bangladesh,
+.item-brunei {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 88px;
+}
+.bahrain-5g,
+.bhutan-new,
+.item-brunei {
+  min-width: 103px;
+}
+.bahrain-5g,
+.item-brunei {
+  min-width: 80px;
+}
+.item-brunei {
+  min-width: 48px;
+}
+.item-brunei1 {
+  display: inline-block;
+  min-width: 75px;
+}
+.china-incl-tibet,
+.item-brunei1 {
+  position: relative;
+  line-height: 22px;
+}
+.hong-kong-5g,
+.indonesia-5g,
+.israel-5g,
+.item-india,
+.japan-5g {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 104px;
+}
+.indonesia-5g,
+.israel-5g,
+.item-india,
+.japan-5g {
+  min-width: 36px;
+}
+.indonesia-5g,
+.israel-5g,
+.japan-5g {
+  min-width: 96px;
+}
+.israel-5g,
+.japan-5g {
+  min-width: 64px;
+}
+.japan-5g {
+  min-width: 68px;
+}
+.item-jordan,
+.item-kyrgyzstan,
+.kuwait-5g,
+.laos,
+.macau,
+.malaysia {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.item-kyrgyzstan,
+.kuwait-5g,
+.laos,
+.macau,
+.malaysia {
+  min-width: 73px;
+}
+.item-kyrgyzstan,
+.laos,
+.macau,
+.malaysia {
+  min-width: 83px;
+}
+.laos,
+.macau,
+.malaysia {
+  min-width: 35px;
+}
+.macau,
+.malaysia {
+  min-width: 50px;
+}
+.malaysia {
+  min-width: 64px;
+}
+.mongolia-new {
+  display: inline-block;
+  min-width: 117px;
+}
+.item-nepal,
+.mongolia-new,
+.myanmar-currently-blocked {
+  position: relative;
+  line-height: 22px;
+}
+.item-nepal {
+  display: inline-block;
+  min-width: 43px;
+}
+.oman-5g {
+  display: inline-block;
+  min-width: 68px;
+}
+.item-papua,
+.oman-5g {
+  position: relative;
+  line-height: 22px;
+}
+.pakistan,
+.philippines-5g,
+.qatar-5g,
+.saudi-arabia-5g {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 64px;
+}
+.philippines-5g,
+.qatar-5g,
+.saudi-arabia-5g {
+  min-width: 104px;
+}
+.qatar-5g,
+.saudi-arabia-5g {
+  min-width: 66px;
+}
+.saudi-arabia-5g {
+  min-width: 115px;
+}
+.item-sri,
+.singapore-5g,
+.south-korea-5g,
+.tajikistan-new {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.item-sri,
+.south-korea-5g,
+.tajikistan-new {
+  min-width: 114px;
+}
+.item-sri,
+.tajikistan-new {
+  min-width: 66px;
+}
+.tajikistan-new {
+  min-width: 119px;
+}
+.taiwan-5g {
+  display: inline-block;
+  min-width: 75px;
+}
+.item-uzbekistan,
+.taiwan-5g,
+.united-arab-emirates,
+.vietnam-5g {
+  position: relative;
+  line-height: 22px;
+}
+.item-uzbekistan,
+.vietnam-5g {
+  display: inline-block;
+  min-width: 84px;
+}
+.vietnam-5g {
+  min-width: 85px;
+}
+.asia-countries,
+.asia-region {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asia-countries {
+  padding: 0 19px 0 0;
+  gap: 4px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.asia-region {
+  gap: 24px;
+}
+.heading-31 {
+  margin: 0;
+  width: 76.9px;
+  height: 33.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-chad {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 40px;
+}
+.mauritius-new {
+  display: inline-block;
+  min-width: 122.4px;
+}
+.congo-democratic-republic,
+.congo-republic-egypt,
+.gabon,
+.ghana,
+.mauritius-new {
+  position: relative;
+  line-height: 22px;
+}
+.gabon,
+.ghana {
+  display: inline-block;
+  min-width: 49px;
+}
+.kenya {
+  display: inline-block;
+  min-width: 45px;
+}
+.kenya,
+.madagascar-republic {
+  position: relative;
+  line-height: 22px;
+}
+.item-malawi,
+.nigeria,
+.reunion,
+.senegal-new,
+.south-africa {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.nigeria,
+.reunion,
+.senegal-new,
+.south-africa {
+  min-width: 52px;
+}
+.reunion,
+.senegal-new,
+.south-africa {
+  min-width: 62px;
+}
+.senegal-new,
+.south-africa {
+  min-width: 91px;
+}
+.senegal-new {
+  min-width: 109.7px;
+}
+.item-tanzania,
+.seychelles-new,
+.swaziland-new,
+.tunisia,
+.uganda {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 129px;
+}
+.item-tanzania,
+.swaziland-new,
+.tunisia,
+.uganda {
+  min-width: 125.7px;
+}
+.item-tanzania,
+.tunisia,
+.uganda {
+  min-width: 66px;
+}
+.tunisia,
+.uganda {
+  min-width: 58px;
+}
+.tunisia {
+  min-width: 53px;
+}
+.africa-countries,
+.africa-region {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.africa-countries {
+  padding: 0 20px 0 0;
+  gap: 4px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.africa-region {
+  gap: 24px;
+}
+.heading-32 {
+  margin: 0;
+  width: 95.2px;
+  height: 33.6px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-land {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 98px;
+}
+.albania,
+.armenia,
+.austria-5g,
+.belgium-5g,
+.item-azerbaijan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 55px;
+}
+.armenia,
+.austria-5g,
+.belgium-5g,
+.item-azerbaijan {
+  min-width: 61px;
+}
+.austria-5g,
+.belgium-5g,
+.item-azerbaijan {
+  min-width: 77px;
+}
+.belgium-5g,
+.item-azerbaijan {
+  min-width: 78px;
+}
+.belgium-5g {
+  min-width: 83px;
+}
+.item-belarus {
+  display: inline-block;
+  min-width: 56px;
+}
+.bosnia-herzegovina,
+.bulgaria-5g,
+.croatia-5g,
+.item-belarus {
+  position: relative;
+  line-height: 22px;
+}
+.bulgaria-5g,
+.croatia-5g {
+  display: inline-block;
+  min-width: 84px;
+}
+.croatia-5g {
+  min-width: 79px;
+}
+.cyprus-5g-new {
+  display: inline-block;
+  min-width: 129px;
+}
+.cyprus-5g-new,
+.czech-republic-5g,
+.denmark-5g,
+.item-cyprus {
+  position: relative;
+  line-height: 22px;
+}
+.denmark-5g {
+  display: inline-block;
+  min-width: 90px;
+}
+.estonia-5g,
+.finland-5g,
+.france-5g,
+.item-faroe,
+.item-georgia {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 79px;
+}
+.finland-5g,
+.france-5g,
+.item-faroe,
+.item-georgia {
+  min-width: 97px;
+}
+.finland-5g,
+.france-5g,
+.item-georgia {
+  min-width: 77px;
+}
+.france-5g,
+.item-georgia {
+  min-width: 74px;
+}
+.item-georgia {
+  min-width: 58px;
+}
+.germany-5g,
+.gibraltar-new,
+.greece-5g,
+.greenland-new,
+.guernsey-new {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 91px;
+}
+.gibraltar-new,
+.greece-5g,
+.greenland-new,
+.guernsey-new {
+  min-width: 113px;
+}
+.greece-5g,
+.greenland-new,
+.guernsey-new {
+  min-width: 126px;
+}
+.greece-5g,
+.guernsey-new {
+  min-width: 121px;
+}
+.greece-5g {
+  min-width: 78px;
+}
+.hungary-5g,
+.iceland-5g,
+.isle-of-man-new,
+.italy-5g,
+.item-ireland {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 87px;
+}
+.iceland-5g,
+.isle-of-man-new,
+.italy-5g,
+.item-ireland {
+  min-width: 77px;
+}
+.isle-of-man-new,
+.italy-5g,
+.item-ireland {
+  min-width: 128px;
+}
+.italy-5g,
+.item-ireland {
+  min-width: 51px;
+}
+.italy-5g {
+  min-width: 55px;
+}
+.item-kazakhstan,
+.item-liechtenstein,
+.latvia-5g,
+.lithuania {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 86px;
+}
+.item-liechtenstein,
+.latvia-5g,
+.lithuania {
+  min-width: 72px;
+}
+.item-liechtenstein,
+.lithuania {
+  min-width: 102px;
+}
+.lithuania {
+  min-width: 69px;
+}
+.item-macedonia,
+.item-moldova,
+.luxembourg-5g,
+.malta-5g,
+.monaco-new {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 116px;
+}
+.item-macedonia,
+.item-moldova,
+.malta-5g,
+.monaco-new {
+  min-width: 66px;
+}
+.item-macedonia,
+.item-moldova,
+.monaco-new {
+  min-width: 82px;
+}
+.item-moldova,
+.monaco-new {
+  min-width: 109px;
+}
+.item-moldova {
+  min-width: 62px;
+}
+.montenegro {
+  display: inline-block;
+  min-width: 91px;
+}
+.montenegro,
+.netherlands-5g,
+.north-ireland-5g,
+.northern-cyprus-new {
+  position: relative;
+  line-height: 22px;
+}
+.netherlands-5g {
+  display: inline-block;
+  min-width: 116px;
+}
+.norway-5g,
+.poland-5g,
+.portugal-5g,
+.russia-5g,
+.san-marino-5g {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 79px;
+}
+.poland-5g,
+.portugal-5g,
+.russia-5g,
+.san-marino-5g {
+  min-width: 75px;
+}
+.portugal-5g,
+.russia-5g,
+.san-marino-5g {
+  min-width: 87px;
+}
+.russia-5g,
+.san-marino-5g {
+  min-width: 73px;
+}
+.san-marino-5g {
+  min-width: 106px;
+}
+.item-serbia {
+  display: inline-block;
+  min-width: 48px;
+}
+.item-serbia,
+.scotland-5g-new {
+  position: relative;
+  line-height: 22px;
+}
+.slovakia-5g {
+  display: inline-block;
+  min-width: 84px;
+}
+.slovak-republic-5g,
+.slovakia-5g,
+.spain-5g,
+.sweden-5g {
+  position: relative;
+  line-height: 22px;
+}
+.spain-5g,
+.sweden-5g {
+  display: inline-block;
+  min-width: 69px;
+}
+.sweden-5g {
+  min-width: 87px;
+}
+.switzerland-5g {
+  display: inline-block;
+  min-width: 111px;
+}
+.item-svalbard,
+.switzerland-5g,
+.turkey-5g {
+  position: relative;
+  line-height: 22px;
+}
+.turkey-5g {
+  display: inline-block;
+  min-width: 74px;
+}
+.item-ukraine {
+  display: inline-block;
+  min-width: 57px;
+}
+.item-ukraine,
+.united-kingdom-uk,
+.vatican-city-5g,
+.wales-5g-new {
+  position: relative;
+  line-height: 22px;
+}
+.vatican-city-5g,
+.wales-5g-new {
+  display: inline-block;
+  min-width: 112px;
+}
+.wales-5g-new {
+  min-width: 118px;
+}
+.europe-countries,
+.europe-region {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.europe-countries {
+  gap: 2px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.europe-region {
+  gap: 24px;
+}
+.heading-33 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 33.6px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.canada-5g,
+.dominican-new,
+.item-costa {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 85px;
+}
+.dominican-new,
+.item-costa {
+  min-width: 80px;
+}
+.dominican-new {
+  min-width: 127px;
+}
+.guatemala,
+.honduras,
+.item-el,
+.mexico,
+.nicaragua,
+.panama {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 80px;
+}
+.honduras,
+.mexico,
+.nicaragua,
+.panama {
+  min-width: 72px;
+}
+.mexico,
+.nicaragua,
+.panama {
+  min-width: 53px;
+}
+.nicaragua,
+.panama {
+  min-width: 75px;
+}
+.panama {
+  min-width: 60px;
+}
+.puerto-rico-5g {
+  display: inline-block;
+  min-width: 112px;
+}
+.puerto-rico-5g,
+.united-states-virgin,
+.usa-incl-hawaii {
+  position: relative;
+  line-height: 22px;
+}
+.north-america-countries,
+.north-america-region {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.north-america-countries {
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  gap: 4px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.north-america-region {
+  justify-content: center;
+  gap: 24px;
+  font-size: 28px;
+  font-family: "Open Sans";
+}
+.heading-34 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 33.6px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.australia-5g,
+.fiji-5g,
+.item-guam,
+.nauru,
+.new-zealand-5g {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 89px;
+}
+.fiji-5g,
+.item-guam,
+.nauru,
+.new-zealand-5g {
+  min-width: 44px;
+}
+.nauru,
+.new-zealand-5g {
+  min-width: 45px;
+}
+.new-zealand-5g {
+  min-width: 119px;
+}
+.item-tonga {
+  display: inline-block;
+  min-width: 46px;
+}
+.item-tonga,
+.solomon-islands-new {
+  position: relative;
+  line-height: 22px;
+}
+.vanuatu-new {
+  display: inline-block;
+  min-width: 111px;
+}
+.vanuatu-new,
+.western-samoa-new {
+  position: relative;
+  line-height: 22px;
+}
+.region-countries,
+.region-headings {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.region-headings {
+  gap: 24px;
+  max-width: 100%;
+  font-size: 28px;
+  font-family: "Open Sans";
+}
+.heading-35 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 33.6px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.brazil,
+.item-argentina {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 73px;
+}
+.brazil {
+  min-width: 41px;
+}
+.bolivia-new,
+.chile,
+.colombia,
+.ecuador,
+.paraguay,
+.peru,
+.uruguay {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 97px;
+}
+.chile,
+.colombia,
+.ecuador,
+.paraguay,
+.peru,
+.uruguay {
+  min-width: 38px;
+}
+.colombia,
+.ecuador,
+.paraguay,
+.peru,
+.uruguay {
+  min-width: 70px;
+}
+.ecuador,
+.paraguay,
+.peru,
+.uruguay {
+  min-width: 62px;
+}
+.paraguay,
+.peru,
+.uruguay {
+  min-width: 69px;
+}
+.peru,
+.uruguay {
+  min-width: 35px;
+}
+.uruguay {
+  min-width: 63px;
+}
+.item-argentina-parent {
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.asia-region-parent,
+.item-argentina-parent,
+.region-headings1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.region-headings1 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 0;
+  gap: 24px;
+  font-size: 28px;
+  font-family: "Open Sans";
+}
+.asia-region-parent {
+  width: 384px;
+  justify-content: flex-start;
+  gap: 64px;
+  min-width: 384px;
+  max-width: 100%;
+}
+.container-icon {
+  height: 400px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  min-width: 489px;
+}
+.frame-group,
+.supported-countries,
+.tablist-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #2b2929;
+  font-family: Inter;
+}
+.supported-countries,
+.tablist-parent {
+  flex-direction: column;
+}
+.tablist-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 80px 360px;
+  box-sizing: border-box;
+  gap: 66.3px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #c36;
+  font-family: Inter;
+}
+.supported-countries {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .asia-region-parent {
+    flex: 1;
+    min-width: 100%;
+  }
+  .container-icon {
+    min-width: 100%;
+  }
+  .frame-group {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+  .tablist-parent {
+    gap: 33px;
+    padding: 22px 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .link-global-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-group {
+    gap: 16px;
+  }
+  .tablist-parent {
+    gap: 17px;
+    padding: 20px 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-3,
+  .heading-31,
+  .heading-32,
+  .link-global-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-33,
+  .heading-34,
+  .heading-35 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .asia-region-parent {
+    gap: 32px;
+  }
+}

@@ -1,0 +1,107 @@
+.compatibility-image-icon {
+  width: 302px;
+  height: 201.3px;
+  position: relative;
+  object-fit: cover;
+}
+.check-if-your,
+.heading-28 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading-28 {
+  margin: 0;
+  width: 452px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.check-if-your {
+  align-self: stretch;
+  height: 33.1px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  flex-shrink: 0;
+}
+.heading-2-does-my-device-sup-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.all-supported-devices,
+.link2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.all-supported-devices {
+  width: 254px;
+  position: relative;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+.link2 {
+  width: 286px;
+  background-color: #fff;
+  border: 3px solid #2b2a2c;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 20px 13px;
+  white-space: nowrap;
+  font-size: 21px;
+  color: #2b2a2c;
+  font-family: Lato;
+}
+.compatibility-content,
+.section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.compatibility-content {
+  width: 614.1px;
+  justify-content: center;
+  gap: 32px;
+}
+.section2 {
+  align-self: stretch;
+  background-color: #f8f8f8;
+  justify-content: flex-start;
+  padding: 80px 20px 80px 21px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 32px;
+  color: #29292b;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .heading-28 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .compatibility-content {
+    gap: 16px;
+  }
+  .section2 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-28 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
